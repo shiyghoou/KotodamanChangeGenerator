@@ -1,0 +1,2 @@
+# KotodamanChangeGenerator
+コトダマンのチェンジ表を生成するスクリプトです
